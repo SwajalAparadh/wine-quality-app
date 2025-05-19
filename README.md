@@ -1,1 +1,4 @@
-# wine-quality-app
+streamlit
+pandas
+joblib
+scikit-learn
