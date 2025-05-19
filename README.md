@@ -24,8 +24,4 @@ How to Use the App
 - View predicted wine quality score
 - Adjust inputs to try different wines
 
-Run Locally
-git clone https://github.com/yourusername/wine-quality-app.git
-cd wine-quality-app
-pip install -r requirements.txt
-streamlit run app.py
+
